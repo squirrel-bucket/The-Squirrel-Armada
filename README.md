@@ -1,5 +1,7 @@
 **The Squirrel Armada**
 
+![Gameplay](Screenshots/main_menu.png)
+
 _A 2D platformer featuring bee-knights, drones, waffles, and a rather talkative armchair._
 
 **About the Project**
@@ -9,6 +11,8 @@ The Squirrel Armada is a 2D platformer developed as a personal project to explor
 Originally started in late 2022 or early 2023, the project has grown into an ongoing exploration of game mechanics, animation, enemy behavior, level design, and interactive dialogue. Development continues as new ideas and systems are introduced.
 
 **Features**
+
+![Combat](Screenshots/player_hit_knight.png)
 
 - **Combat and Enemy Encounters** — Battle bee-knights and drones, with additional enemy types planned for future updates.
 - **Health Regeneration Collectibles** — Collect food items, including waffles and pumpkin pie, to restore health.
@@ -31,6 +35,8 @@ _The project was originally developed around 2022–2023. It has since been shif
 
 **Development Roadmap**
 
+![?????](Screenshots/ȩ̵͓̣͍͈̞͙̟͇͑̀̋͘ṙ̵̪̤͓̖̭̰̱̻̹̹̟͉͆̉͆̄r̵̨̢̩͙̳̯͚͓̭͉̦͎͖̭̈́́̎̾̂͋͋̃͐̃̂͊͝ö̷͈̳͔̜́̔̓͂͌̿͛̌̓̓̚r̵̛̼͈̞̻̜͉̼̍̊̃̊̃͌̑̂͒̑̃̎̚͝.png)
+
 The project is actively being developed. Planned improvements include:
 
 - Expand the enemy roster beyond bee-knights and drones.
@@ -40,6 +46,8 @@ The project is actively being developed. Planned improvements include:
 - These goals may evolve as development progresses.
 
 **Project Goals**
+
+![Moving Platforms](Screenshots/moving_platforms.png)
 
 The Squirrel Armada began as an opportunity to learn Unity through hands-on experimentation. Rather than limiting the project to isolated tutorials, development has involved combining gameplay systems, animation, visual scripting, collectibles, checkpoints, level transitions, and dialogue into a single evolving game.
 
