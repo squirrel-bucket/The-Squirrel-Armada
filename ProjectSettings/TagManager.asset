@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Platform
+  - GM
+  - SPIKE
+  - DPM
+  - Enemy
+  - EVENTSYSTEM
+  - UIMANAGER
+  - PAUSE MENU
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CHECKPOINT
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - GroundDetection
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3037425029
+    locked: 0
+  - name: CHECKPOINT
+    uniqueID: 2663944251
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines:
+  - UnityEngine.Rendering.Universal.UniversalRenderPipeline

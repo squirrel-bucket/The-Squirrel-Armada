@@ -1,0 +1,919 @@
+1
+00:00:02,300 --> 00:00:03,000
+Hello,
+
+2
+00:00:03,580 --> 00:00:06,720
+and welcome to the Easter Egg level.
+
+3
+00:00:07,480 --> 00:00:09,040
+My name is Emerson Dorhauer,
+
+4
+00:00:09,040 --> 00:00:10,760
+and I'd like to thank you for taking the
+
+5
+00:00:10,760 --> 00:00:13,000
+time out of your presumably very busy
+
+6
+00:00:13,000 --> 00:00:16,450
+schedule to visit this particular area of my game.
+
+7
+00:00:17,240 --> 00:00:19,620
+Now you may be wondering why you're here.
+
+8
+00:00:20,880 --> 00:00:22,880
+Perhaps you discovered a hidden door.
+
+9
+00:00:23,440 --> 00:00:24,880
+Perhaps you fell through the floor.
+
+10
+00:00:25,520 --> 00:00:31,800
+Perhaps you pressed that one button on that one screen accidentally.
+
+12
+00:00:30,510 --> 00:00:31,800
+I don't care.
+
+13
+00:00:31,800 --> 00:00:33,240
+Whatever you're reason for being here.
+
+14
+00:00:33,240 --> 00:00:35,450
+I'm just glad you could join me today.
+
+15
+00:00:35,560 --> 00:00:37,720
+Because today I've prepared a very,
+
+16
+00:00:37,880 --> 00:00:39,820
+very special presentation on a subject
+
+17
+00:00:39,820 --> 00:00:42,460
+that I believe deserves significantly more
+
+18
+00:00:42,460 --> 00:00:44,610
+attention than it currently receives.
+
+19
+00:00:45,080 --> 00:00:45,880
+Today,
+
+20
+00:00:46,860 --> 00:00:48,950
+we are going to discuss the stapler.
+
+21
+00:00:51,480 --> 00:00:52,960
+Yes, the stapler.
+
+22
+00:00:53,760 --> 00:00:56,440
+Now, I understand that this may not be the
+
+23
+00:00:56,440 --> 00:00:58,820
+most exciting subject you've ever encountered.
+
+24
+00:00:58,820 --> 00:01:00,990
+In fact, I would be willing to bet that
+
+25
+00:01:00,990 --> 00:01:03,040
+prior to this very moment,
+
+26
+00:01:03,040 --> 00:01:05,580
+you had not given the stapler a single
+
+27
+00:01:05,580 --> 00:01:06,990
+conscious thought today.
+
+28
+00:01:08,060 --> 00:01:10,340
+And that is precisely the problem.
+
+29
+00:01:10,860 --> 00:01:13,200
+We live in a world surrounded by
+
+30
+00:01:13,200 --> 00:01:14,080
+technological marvels.
+
+31
+00:01:14,080 --> 00:01:16,720
+I mean, we have smartphones,
+
+32
+00:01:16,740 --> 00:01:18,220
+computers, automobiles, satellites,
+
+33
+00:01:18,220 --> 00:01:20,280
+and machines capable of calculating
+
+34
+00:01:20,280 --> 00:01:22,780
+billions of mathematical operations in the
+
+35
+00:01:22,780 --> 00:01:23,760
+blink of an eye.
+
+36
+00:01:24,520 --> 00:01:25,320
+And yet
+
+37
+00:01:25,590 --> 00:01:27,710
+somewhere in an office building,
+
+38
+00:01:27,710 --> 00:01:29,900
+a person is still sitting in a desk,
+
+39
+00:01:30,420 --> 00:01:32,300
+manually attaching two pieces of paper
+
+40
+00:01:32,300 --> 00:01:34,330
+together with a small metal fastener.
+
+41
+00:01:35,740 --> 00:01:38,000
+We consider this normal.
+
+42
+00:01:40,360 --> 00:01:41,990
+But how did we get here?
+
+43
+00:01:42,720 --> 00:01:44,200
+Well, to understand the stapler,
+
+44
+00:01:44,200 --> 00:01:46,040
+and we must first understand the
+
+45
+00:01:46,040 --> 00:01:48,540
+fundamental human desire to keep things together.
+
+46
+00:01:49,400 --> 00:01:51,600
+Throughout history, humanity has developed
+
+47
+00:01:51,600 --> 00:01:54,360
+numerous methods of attaching objects to one another.
+
+48
+00:01:54,540 --> 00:01:56,720
+We have used string, rope,
+
+49
+00:01:56,720 --> 00:02:00,610
+glue, nails, screws, and, in particularly
+
+50
+00:02:00,610 --> 00:02:02,860
+desperate circumstances, tape.
+
+51
+00:02:03,360 --> 00:02:04,300
+'Cause who uses tape?
+
+52
+00:02:04,860 --> 00:02:05,960
+But paper
+
+53
+00:02:06,900 --> 00:02:09,450
+presented a unique challenge.
+
+54
+00:02:10,500 --> 00:02:12,030
+You see, paper is thin.
+
+55
+00:02:12,030 --> 00:02:12,990
+It's flexible.
+
+56
+00:02:12,990 --> 00:02:14,470
+It's easily damaged.
+
+57
+00:02:14,680 --> 00:02:16,420
+And perhaps most importantly,
+
+58
+00:02:16,420 --> 00:02:19,620
+it has an extraordinary ability to become
+
+59
+00:02:19,620 --> 00:02:21,220
+separated from the other pieces of paper.
+
+60
+00:02:21,220 --> 00:02:23,130
+It was supposed to be accompanying.
+
+61
+00:02:24,960 --> 00:02:29,500
+Imagine if you will, a world without staplers,
+
+62
+00:02:30,880 --> 00:02:33,260
+you've just finished writing a 12 page report,
+
+63
+00:02:33,960 --> 00:02:37,120
+12 pages of carefully researched information,
+
+64
+00:02:37,120 --> 00:02:40,450
+painstakingly typed and meticulously organized.
+
+65
+00:02:41,120 --> 00:02:42,370
+You pick up the stack,
+
+66
+00:02:43,460 --> 00:02:44,860
+you sneeze,
+
+67
+00:02:45,440 --> 00:02:48,580
+and then suddenly your life's work is scattered across the floor like a particularly disappointing autumn.
+
+68
+00:02:54,400 --> 00:02:59,000
+This was a problem that humanity could not ignore forever.
+
+70
+00:02:59,000 --> 00:03:01,000
+Fortunately, technological progress
+
+71
+00:03:01,000 --> 00:03:02,680
+eventually provided a solution.
+
+72
+00:03:02,820 --> 00:03:05,580
+The modern stapler emerged from a long
+
+73
+00:03:05,580 --> 00:03:07,800
+history of fascinating devices with early
+
+74
+00:03:07,800 --> 00:03:10,720
+stapling machines appearing in the 18th century.
+
+75
+00:03:10,910 --> 00:03:13,120
+One often cited example was created for
+
+76
+00:03:13,120 --> 00:03:15,800
+King Louis XV the France, who reportedly
+
+77
+00:03:15,800 --> 00:03:17,180
+used specially made fasteners bearing
+
+78
+00:03:17,180 --> 00:03:19,590
+royal insignia.
+
+80
+00:03:20,420 --> 00:03:21,580
+Now, I don't know about you,
+
+81
+00:03:21,700 --> 00:03:24,460
+but I find this purely fascinating.
+
+82
+00:03:25,160 --> 00:03:26,860
+Imagine being so important that even the
+
+83
+00:03:26,860 --> 00:03:28,660
+things that holding your paper work
+
+84
+00:03:28,660 --> 00:03:30,300
+together have to be personalized.
+
+85
+00:03:31,040 --> 00:03:32,960
+Meanwhile, the rest of us are using
+
+86
+00:03:32,960 --> 00:03:34,940
+whatever staples or patterns to be sitting
+
+87
+00:03:34,940 --> 00:03:36,040
+beside the office printer.
+
+88
+00:03:36,040 --> 00:03:38,420
+And we call this equality.
+
+89
+00:03:40,920 --> 00:03:42,980
+As stapling technology developed,
+
+90
+00:03:43,080 --> 00:03:45,280
+devices became more practical for offices,
+
+91
+00:03:45,280 --> 00:03:46,540
+schools and businesses.
+
+92
+00:03:47,020 --> 00:03:49,280
+Eventually the familiar handheld stapler
+
+93
+00:03:49,280 --> 00:03:51,340
+became a standard piece of office equipment,
+
+94
+00:03:51,760 --> 00:03:54,160
+and with it came a new era of productivity.
+
+95
+00:03:54,880 --> 00:03:56,840
+Or at the very least a new era of being
+
+96
+00:03:56,840 --> 00:03:58,600
+able to attach three pieces of paper
+
+97
+00:03:58,600 --> 00:04:00,600
+together without having to locate a paperclip.
+
+98
+00:04:00,920 --> 00:04:03,600
+Now this brings us to the many uses of the stapler.
+
+99
+00:04:03,860 --> 00:04:06,050
+The most obvious use is, of course,
+
+100
+00:04:06,060 --> 00:04:07,240
+attaching sheets of paper.
+
+101
+00:04:07,320 --> 00:04:08,600
+You take two or more sheets, you
+
+102
+00:04:08,600 --> 00:04:09,880
+align their edges, you place them in the
+
+103
+00:04:09,880 --> 00:04:11,120
+stapler and you press down.
+
+104
+00:04:11,120 --> 00:04:13,860
+It's that easy. A small, metal staple passes
+
+105
+00:04:13,860 --> 00:04:14,800
+through the paper,
+
+106
+00:04:15,020 --> 00:04:18,070
+bends underneath and holds everything together.
+
+107
+00:04:18,070 --> 00:04:21,760
+It's a simple process, it's an elegant process, and
+
+109
+00:04:21,870 --> 00:04:24,860
+if performed correctly, it is a process
+
+110
+00:04:24,860 --> 00:04:26,700
+that can save you several seconds of
+
+111
+00:04:26,700 --> 00:04:28,650
+searching for a missing page.
+
+112
+00:04:30,080 --> 00:04:33,900
+However, the stapler's greatest strength may also
+
+114
+00:04:33,900 --> 00:04:35,730
+be its greatest weakness.
+
+115
+00:04:36,460 --> 00:04:38,600
+It depends on the user.
+
+116
+00:04:39,120 --> 00:04:42,480
+Sure, a stapler in the hands of a responsible
+
+118
+00:04:42,480 --> 00:04:45,140
+individual is an instrument of organization,
+
+119
+00:04:45,260 --> 00:04:48,080
+but a stapler in the hands of an
+
+120
+00:04:48,080 --> 00:04:49,460
+irresponsible individual?
+
+121
+00:04:50,140 --> 00:04:52,640
+Well, that's going to be an instrument of
+
+122
+00:04:52,640 --> 00:04:54,110
+unnecessary noise.
+
+123
+00:04:54,500 --> 00:04:55,980
+We've all heard it.
+
+124
+00:04:56,220 --> 00:04:58,200
+You're sitting in a quiet classroom.
+
+125
+00:04:58,600 --> 00:05:01,160
+The teacher is explaining something important.
+
+126
+00:05:01,160 --> 00:05:03,220
+Everyone is concentrating.
+
+127
+00:05:04,320 --> 00:05:08,500
+And then, from the back of the room,
+
+128
+00:05:08,500 --> 00:05:09,700
+*unintelligible stapler noise*
+
+130
+00:05:10,060 --> 00:05:13,660
+someone has stapled a piece of paper.
+
+131
+00:05:15,340 --> 00:05:16,140
+Why?
+
+132
+00:05:17,340 --> 00:05:20,840
+What urgent administrative emergency
+
+133
+00:05:20,840 --> 00:05:22,920
+required immediate stapling?
+
+134
+00:05:24,120 --> 00:05:26,020
+We may never know,
+
+135
+00:05:27,160 --> 00:05:29,150
+but we must remain vigilant.
+
+136
+00:05:29,920 --> 00:05:31,800
+Now, there are several varieties of
+
+137
+00:05:31,800 --> 00:05:33,080
+staplers available today.
+
+138
+00:05:33,080 --> 00:05:35,370
+There are the standard desktop staplers
+
+139
+00:05:35,450 --> 00:05:36,940
+designed for everyday use.
+
+140
+00:05:36,940 --> 00:05:38,600
+There are the heavy duty staplers,
+
+141
+00:05:38,600 --> 00:05:41,440
+which can bind significantly larger stacks of paper.
+
+142
+00:05:41,800 --> 00:05:43,200
+There are miniature staplers,
+
+143
+00:05:43,200 --> 00:05:45,260
+which are ideal for individuals who
+
+144
+00:05:45,260 --> 00:05:47,400
+believe that their desk accessories should
+
+145
+00:05:47,400 --> 00:05:50,230
+be approximately the size of a small sandwich.
+
+146
+00:05:51,780 --> 00:05:55,440
+And of course, there are electric staplers.
+
+147
+00:05:56,520 --> 00:05:58,680
+Now electric staplers perform the same
+
+148
+00:05:58,680 --> 00:06:00,320
+basic function as their manual counterparts,
+
+149
+00:06:00,800 --> 00:06:04,420
+but without requiring the user to press down by hand,
+
+150
+00:06:04,660 --> 00:06:06,680
+which raises an important question.
+
+151
+00:06:07,110 --> 00:06:10,440
+If pressing down on a stapler is too much work,
+
+152
+00:06:10,440 --> 00:06:13,290
+what exactly are we saving our energy for?
+
+153
+00:06:14,080 --> 00:06:15,940
+See, I would like to emphasize that this
+
+154
+00:06:15,940 --> 00:06:18,800
+is not a criticism of electric staplers,
+
+155
+00:06:18,800 --> 00:06:21,660
+I simply believe that we must carefully
+
+156
+00:06:21,660 --> 00:06:24,000
+consider the implications of a society in
+
+157
+00:06:24,000 --> 00:06:27,040
+which even stapling has become automated.
+
+158
+00:06:27,980 --> 00:06:28,780
+Who knows?
+
+159
+00:06:28,850 --> 00:06:31,100
+Perhaps one day we will develop a machine
+
+160
+00:06:31,100 --> 00:06:33,240
+that automatically gathers our papers,
+
+161
+00:06:33,240 --> 00:06:34,480
+aligns them, staples them,
+
+162
+00:06:34,480 --> 00:06:35,750
+and files them away.
+
+163
+00:06:35,920 --> 00:06:40,540
+And perhaps on that day, we will finally be free.
+
+164
+00:06:41,940 --> 00:06:44,780
+Perhaps we will simply invent another
+
+165
+00:06:44,780 --> 00:06:46,690
+machine to manage the first machine.
+
+166
+00:06:47,740 --> 00:06:49,160
+Only time will tell.
+
+167
+00:06:53,510 --> 00:06:57,090
+Now, before we conclude today's presentation,
+
+169
+00:06:57,740 --> 00:07:00,540
+I would like to discuss proper stapler maintenance.
+
+170
+00:07:00,960 --> 00:07:03,020
+First, always ensure that your stapler
+
+171
+00:07:03,020 --> 00:07:04,940
+contains an adequate supply of staples.
+
+172
+00:07:05,020 --> 00:07:06,760
+Few experiences are more disappointing
+
+173
+00:07:06,760 --> 00:07:08,560
+than attempting to staple an important
+
+174
+00:07:08,560 --> 00:07:11,180
+document only to discover that your stapler is empty.
+
+175
+00:07:11,560 --> 00:07:12,630
+You press down,
+
+176
+00:07:12,980 --> 00:07:13,800
+nothing happens.
+
+177
+00:07:13,800 --> 00:07:15,120
+You lift it, you inspect it,
+
+178
+00:07:15,120 --> 00:07:16,290
+you press down again.
+
+179
+00:07:16,290 --> 00:07:18,210
+This time with greater determination,
+
+180
+00:07:18,210 --> 00:07:19,080
+still,
+
+181
+00:07:19,300 --> 00:07:20,100
+nothing.
+
+182
+00:07:20,720 --> 00:07:22,680
+At this point, you may begin to question
+
+183
+00:07:22,680 --> 00:07:23,980
+the staplers integrity.
+
+184
+00:07:23,980 --> 00:07:25,880
+You may even question your own,
+
+185
+00:07:26,300 --> 00:07:29,280
+but please remember, the problem is almost
+
+186
+00:07:29,280 --> 00:07:31,170
+certainly a lack of staples.
+
+187
+00:07:32,700 --> 00:07:36,140
+Secondly, never force a jammed stapler.
+
+188
+00:07:36,940 --> 00:07:39,140
+Carefully remove any bent staples
+
+189
+00:07:39,140 --> 00:07:41,880
+according to the manufacturer's instructions.
+
+190
+00:07:43,000 --> 00:07:44,150
+And finally,
+
+191
+00:07:44,600 --> 00:07:46,500
+return your stapler to its designated
+
+192
+00:07:46,500 --> 00:07:48,000
+location after each use.
+
+193
+00:07:48,120 --> 00:07:50,800
+A stapler that cannot be found for all
+
+194
+00:07:50,800 --> 00:07:54,450
+practical purposes is a stapler that does not exist.
+
+195
+00:07:54,640 --> 00:07:57,160
+I mean, it's kind of like the clown in the forest.
+
+196
+00:07:57,580 --> 00:08:00,180
+Tree falls down, no one's around to hear it.
+
+197
+00:08:00,340 --> 00:08:01,260
+Ship of Theseus.
+
+198
+00:08:01,400 --> 00:08:03,180
+You know exactly what I mean.
+
+199
+00:08:03,880 --> 00:08:04,680
+All right.
+
+200
+00:08:05,140 --> 00:08:06,620
+This is going to conclude our discussion
+
+201
+00:08:06,620 --> 00:08:07,590
+of the stapler.
+
+202
+00:08:07,740 --> 00:08:10,360
+Today we've examined, we're going to go
+
+203
+00:08:10,360 --> 00:08:10,820
+over everything,
+
+204
+00:08:10,820 --> 00:08:12,830
+we've examined its historical development,
+
+205
+00:08:12,890 --> 00:08:14,820
+the stapler's many applications, and its
+
+206
+00:08:14,820 --> 00:08:17,420
+continued importance in modern society.
+
+207
+00:08:17,800 --> 00:08:19,840
+We've explored the relationship between
+
+208
+00:08:19,840 --> 00:08:21,660
+humanity and paper fasting technology.
+
+209
+00:08:21,660 --> 00:08:24,580
+We've even questioned the implications of
+
+210
+00:08:24,580 --> 00:08:25,720
+automated stapling.
+
+211
+00:08:27,240 --> 00:08:29,720
+And hopefully we have developed a newfound
+
+212
+00:08:29,720 --> 00:08:31,040
+appreciation for the small metal device
+
+213
+00:08:31,040 --> 00:08:32,300
+sitting on our desks.
+
+214
+00:08:32,600 --> 00:08:34,100
+Look, I would like to thank you once again
+
+215
+00:08:34,100 --> 00:08:35,950
+for attending this presentation,
+
+216
+00:08:36,100 --> 00:08:38,480
+whether or not it was against your will,
+
+217
+00:08:38,520 --> 00:08:41,880
+your time and attention have been greatly appreciated.
+
+218
+00:08:45,940 --> 00:08:48,230
+I will not be taking them at this time.
+
+219
+00:08:48,230 --> 00:08:50,500
+And if you've been waiting for something
+
+220
+00:08:50,500 --> 00:08:52,740
+exciting to happen during this presentation,
+
+221
+00:08:53,140 --> 00:08:55,490
+I have some unfortunate news.
+
+222
+00:08:56,400 --> 00:08:58,520
+This has been the exciting part.
+
+223
+00:08:59,340 --> 00:09:00,460
+Thank you for listening.
+
+224
+00:09:00,540 --> 00:09:01,590
+Have a wonderful day.
+
+225
+00:09:01,590 --> 00:09:04,750
+And remember, the next time you see a stapler,
+
+226
+00:09:04,800 --> 00:09:06,180
+don't take it for granted.
+
+227
+00:09:08,090 --> 00:09:11,360
+Because somewhere, someone has a 12 page report,
+
+228
+00:09:11,360 --> 00:09:14,520
+a loose stack of paper, and absolutely no
+
+229
+00:09:14,520 --> 00:09:16,190
+idea where the paper clips are.
+
+230
+00:09:16,190 --> 00:09:19,580
+And that person could be you.
+
+231
+00:09:22,720 --> 00:09:23,520
+Oh,
+
+232
+00:09:24,120 --> 00:09:25,280
+and, one more thing.
+
+233
+00:09:25,990 --> 00:09:28,450
+If you're wondering how to get out of this room,
+
+234
+00:09:29,120 --> 00:09:30,600
+just wait like, I don't know,
+
+235
+00:09:30,600 --> 00:09:32,490
+10 seconds and you'll be teleported
+
+236
+00:09:32,490 --> 00:09:34,080
+back to the main menu.
+
+237
+00:09:34,080 --> 00:09:36,180
+Alright, have a great day.
+
+238
+00:09:37,500 --> 00:09:38,300
+Goodbye!

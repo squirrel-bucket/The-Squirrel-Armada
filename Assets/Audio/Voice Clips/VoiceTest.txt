@@ -1,0 +1,23 @@
+2
+00:00:01,139 --> 00:00:05,980
+Testing, testing, one, two, three, four, one, two, three, four.
+
+3
+00:00:06,439 --> 00:00:09,630
+Testing, testing. This is a test.
+
+4
+00:00:10,199 --> 00:00:14,500
+Random words, sentences, structure...
+
+5
+00:00:16,729 --> 00:00:22,340
+The brown fog runs over the lazy fox testing
+
+6
+00:00:22,340 --> 00:00:25,869
+testing one two three four 7, 8...
+
+7
+00:00:26,739 --> 00:00:29,440
+The premiere voice recording service.
